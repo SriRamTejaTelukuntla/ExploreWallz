@@ -154,15 +154,7 @@
 		}
 	],
 
-	"Wallpapers": [ {
-			"name": "windowslight",
-			"author": "Polygn",
-			"url": "https://raw.githubusercontent.com/sriramtejasrt/ExploreWallz/master/windowslight%20(1).jpg",
-			"thumbnail": "https://raw.githubusercontent.com/sriramtejasrt/ExploreWallz/master/windowslight%20(1).jpg",
-			"collections": "Mountain",
-		      "downloadable": false
-	},
-				
+	"Wallpapers": [ 			
 		{
 			"name": "Minimal Potter 1",
 			"author": "Polygn",
