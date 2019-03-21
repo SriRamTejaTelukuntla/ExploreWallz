@@ -157,8 +157,8 @@
 	"Wallpapers": [ {
 			"name": "Minimal Potter 1",
 			"author": "Polygn",
-			"url": "https://raw.githubusercontent.com/sriramtejasrt/ExploreWallz/master/surfacemountains-studio.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/sriramtejasrt/ExploreWallz/master/surfacemountains-studio.jpg",
+			"url": "https://raw.githubusercontent.com/sriramtejasrt/ExploreWallz/master/surfacemountains-studio-min.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/sriramtejasrt/ExploreWallz/master/surfacemountains-studio-min.jpg",
 			"collections": "Mountain",
 		      "downloadable": false
 	},
