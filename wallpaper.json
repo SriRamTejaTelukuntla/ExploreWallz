@@ -154,7 +154,16 @@
 		}
 	],
 
-	"Wallpapers": [{
+	"Wallpapers": [ {
+			"name": "Minimal Potter 1",
+			"author": "Polygn",
+			"url": "https://raw.githubusercontent.com/sriramtejasrt/ExploreWallz/master/surfacemountains-studio.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/sriramtejasrt/ExploreWallz/master/surfacemountains-studio.jpg",
+			"collections": "Mountain",
+		      "downloadable": false
+	},
+				
+		{
 			"name": "Minimal Potter 1",
 			"author": "Polygn",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/30.jpg",
