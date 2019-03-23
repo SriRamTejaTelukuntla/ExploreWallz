@@ -62,8 +62,58 @@
 		                 }
                       ],
     
-	"Wallpapers": [   
-		                
+	"Wallpapers": [    
+		                  
+		                  {
+		                   "name": "3",
+		                   "author": "JFL",
+		                   "url": "https://i.imgur.com/KfZaWQZ.jpg",
+		                   "thumbnail": "https://i.imgur.com/KfZaWQZ.jpg",
+	                           "collections": "Featured|Dope",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                  {
+		                   "name": "Ignite",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/2Ocwnl8.jpg",
+		                   "thumbnail": "https://i.imgur.com/2Ocwnl8.jpg",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                  {
+		                   "name": "2",
+		                   "author": "JFL",
+		                   "url": "https://i.imgur.com/ufTUdnp.jpg",
+		                   "thumbnail": "https://i.imgur.com/ufTUdnp.jpg",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                 {
+		                   "name": "1",
+		                   "author": "JFL",
+		                   "url": "https://i.imgur.com/iBXnVVL.jpg",
+		                   "thumbnail": "https://i.imgur.com/iBXnVVL.jpg",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                 {
+		                   "name": "1",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/LTHfEXV.jpg",
+		                   "thumbnail": "https://i.imgur.com/LTHfEXV.jpg",
+	                           "collections": "Featured|Colorful",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
 		                 {
 		                   "name": "Crane",
 		                   "author": "Sri Ram Teja",
