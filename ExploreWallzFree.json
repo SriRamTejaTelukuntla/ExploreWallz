@@ -64,6 +64,16 @@
     
 	"Wallpapers": [   
 		                
+		                 {
+		                   "name": "Crane",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/J259bfk.jpg",
+		                   "thumbnail": "https://i.imgur.com/J259bfk.jpg",
+	                           "collections": "Featured|Animals",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
                                 {
 		                   "name": "Burgundy",
 		                   "author": "Sri Ram Teja",
