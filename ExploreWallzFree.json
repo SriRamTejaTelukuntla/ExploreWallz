@@ -69,6 +69,66 @@
     
 	"Wallpapers": [    
 		                   {
+		                   "name": "6",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/6jdattv.jpg",
+		                   "thumbnail": "https://i.imgur.com/6jdattv.jpg",
+	                           "collections": "Gradient Pattern",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "5",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/Ou8kW74.jpg",
+		                   "thumbnail": "https://i.imgur.com/Ou8kW74.jpg",
+	                           "collections": "Gradient Pattern",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "4",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/G0y0z7C.jpg",
+		                   "thumbnail": "https://i.imgur.com/G0y0z7C.jpg",
+	                           "collections": "Gradient Pattern",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "3",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/XyqycRj.jpg",
+		                   "thumbnail": "https://i.imgur.com/XyqycRj.jpg",
+	                           "collections": "Gradient Pattern",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "2",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/1fn4qZN.jpg",
+		                   "thumbnail": "https://i.imgur.com/1fn4qZN.jpg",
+	                           "collections": "Gradient Pattern",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "1",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/8uGu6SJ.jpg",
+		                   "thumbnail": "https://i.imgur.com/8uGu6SJ.jpg",
+	                           "collections": "Featured|Gradient Pattern",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
 		                   "name": "4",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/ELJ04qA.jpg",
