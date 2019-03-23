@@ -19,17 +19,57 @@
 			                 "name": "Animals",
 			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
 			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
-		                 },
+		                 }
+		                 {
+			                 "name": "Colorful",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 }
+		                 {
+			                 "name": "Dope",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 }
+		                 {
+			                 "name": "Gradient",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 }
+		                 {
+			                 "name": "Material",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 }
+		                 {
+			                 "name": "Material Minimal",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 }
+		                 {
+			                 "name": "Minimal",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 }
+		                 {
+			                 "name": "Nature",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 }
+		                 {
+			                 "name": "Structures",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 }
                       ]
     
 	"Wallpapers": [ 
                              {
-		                   "name": "My wallpaper",
-		                   "author": "Jahir Fiquitiva",
-		                   "url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
-		                   "thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
-	                           "collections": "GRADIENT|ABSTRACT",
+		                   "name": "Bird",
+		                   "author": "Sri Ram Teja
+		                   "url": "https://imgur.com/GIRNewq",
+		                   "thumbnail": "https://imgur.com/GIRNewq",
+	                           "collections": "FeaturedTAmoled
 		                   "downloadable": false,
 		                   "copyright": "Personal Use Only"
-	                     },
+	                     }
                       ]
