@@ -1,1 +1,35 @@
-
+{
+	"Collections": [
+                     {
+                       "name": "Featured",
+		              	   "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/1.png ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/1.png "
+		                 },
+		                 {
+			                 "name": "Amoled",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS/1.png ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS%20thumb/1.png "
+		                 },
+		                 {
+			                 "name": "Abstract",
+		  	               "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/17.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/17.jpg "
+		                 },
+		                 {
+			                 "name": "Animals",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 },
+                  ]
+    
+	"Wallpapers": [ 
+                     {
+		                   "name": "My wallpaper",
+		                   "author": "Jahir Fiquitiva",
+		                   "url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
+		                   "thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
+	                     "collections": "GRADIENT|ABSTRACT",
+		                   "downloadable": false,
+		                   "copyright": "Personal Use Only"
+	                    },
+                 ]
