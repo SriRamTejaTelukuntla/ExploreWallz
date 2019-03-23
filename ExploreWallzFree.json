@@ -69,7 +69,67 @@
     
 	"Wallpapers": [    
 		                   {
-		                   "name": "6",
+		                   "name": "Random Pattern",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/VNnL4Ac.jpg",
+		                   "thumbnail": "https://i.imgur.com/VNnL4Ac.jpg",
+	                           "collections": "Featured|Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                  {
+		                   "name": "Rectangle Pattern",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/zJAJCEz.jpg",
+		                   "thumbnail": "https://i.imgur.com/zJAJCEz.jpg",
+	                           "collections": "Featured|Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     }, 
+		                   {
+		                   "name": "Purple With Hexagon",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/ub8E9Mp.jpg",
+		                   "thumbnail": "https://i.imgur.com/ub8E9Mp.jpg",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "Orange With Hexagon",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/LAl2heW.jpg",
+		                   "thumbnail": "https://i.imgur.com/LAl2heW.jpg",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "Green With Hexagon",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/WUDIOFJ.jpg",
+		                   "thumbnail": "https://i.imgur.com/WUDIOFJ.jpg",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "Red With Hexagon",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/x8wL9BF.jpg",
+		                   "thumbnail": "https://i.imgur.com/x8wL9BF.jpg",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "Polygon 6",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/6jdattv.jpg",
 		                   "thumbnail": "https://i.imgur.com/6jdattv.jpg",
@@ -79,7 +139,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "5",
+		                   "name": "Polygon 5",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/Ou8kW74.jpg",
 		                   "thumbnail": "https://i.imgur.com/Ou8kW74.jpg",
@@ -89,7 +149,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "4",
+		                   "name": "Polygon 4",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/G0y0z7C.jpg",
 		                   "thumbnail": "https://i.imgur.com/G0y0z7C.jpg",
@@ -99,7 +159,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "3",
+		                   "name": "Polygon 3",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/XyqycRj.jpg",
 		                   "thumbnail": "https://i.imgur.com/XyqycRj.jpg",
@@ -109,7 +169,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "2",
+		                   "name": "Polygon 2",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/1fn4qZN.jpg",
 		                   "thumbnail": "https://i.imgur.com/1fn4qZN.jpg",
@@ -119,7 +179,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "1",
+		                   "name": "Polygon 1",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/8uGu6SJ.jpg",
 		                   "thumbnail": "https://i.imgur.com/8uGu6SJ.jpg",
@@ -129,7 +189,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "4",
+		                   "name": "LightBlue Gradient",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/ELJ04qA.jpg",
 		                   "thumbnail": "https://i.imgur.com/ELJ04qA.jpg",
@@ -139,7 +199,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "3",
+		                   "name": "DarkBlueOrange Gradient",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/rzYQD3q.jpg",
 		                   "thumbnail": "https://i.imgur.com/rzYQD3q.jpg",
@@ -149,7 +209,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "2",
+		                   "name": "Ash Gradient",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/NuC64QE.jpg",
 		                   "thumbnail": "https://i.imgur.com/NuC64QE.jpg",
@@ -159,7 +219,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "1",
+		                   "name": "BluePurple Gradient",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/uYAjIkU.jpg",
 		                   "thumbnail": "https://i.imgur.com/uYAjIkU.jpg",
@@ -169,7 +229,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                  {
-		                   "name": "3",
+		                   "name": "Random Pattern",
 		                   "author": "JFL",
 		                   "url": "https://i.imgur.com/KfZaWQZ.jpg",
 		                   "thumbnail": "https://i.imgur.com/KfZaWQZ.jpg",
@@ -189,7 +249,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                  {
-		                   "name": "2",
+		                   "name": "Pixelated",
 		                   "author": "JFL",
 		                   "url": "https://i.imgur.com/ufTUdnp.jpg",
 		                   "thumbnail": "https://i.imgur.com/ufTUdnp.jpg",
@@ -199,7 +259,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                 {
-		                   "name": "1",
+		                   "name": "Hexagon Tiles",
 		                   "author": "JFL",
 		                   "url": "https://i.imgur.com/iBXnVVL.jpg",
 		                   "thumbnail": "https://i.imgur.com/iBXnVVL.jpg",
@@ -209,7 +269,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                 {
-		                   "name": "1",
+		                   "name": "Blue Pink",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/LTHfEXV.jpg",
 		                   "thumbnail": "https://i.imgur.com/LTHfEXV.jpg",
@@ -273,7 +333,7 @@
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/N6j1VlC.jpg",
 		                   "thumbnail": "https://i.imgur.com/N6j1VlC.jpg",
-	                           "collections": "Featured|Abstract",
+	                           "collections": "Abstract",
 		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
@@ -319,7 +379,7 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		             {
-		                   "name": "1",
+		                   "name": "RedBlue",
 		                   "author": "JFL",
 		                   "url": "https://i.imgur.com/CZvwHkN.jpg",
 		                   "thumbnail": "https://i.imgur.com/CZvwHkN.jpg",
