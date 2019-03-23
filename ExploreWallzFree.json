@@ -36,6 +36,11 @@
 			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
 		                 },
 		                 {
+			                 "name": "Gradient Pattern",
+			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
+			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
+		                 },
+		                 {
 			                 "name": "Material",
 			                 "preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg ",
 			                 "preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg "
@@ -63,7 +68,46 @@
                       ],
     
 	"Wallpapers": [    
-		                  
+		                   {
+		                   "name": "4",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/ELJ04qA.jpg",
+		                   "thumbnail": "https://i.imgur.com/ELJ04qA.jpg",
+	                           "collections": "Gradient",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "3",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/rzYQD3q.jpg",
+		                   "thumbnail": "https://i.imgur.com/rzYQD3q.jpg",
+	                           "collections": "Gradient",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "2",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/NuC64QE.jpg",
+		                   "thumbnail": "https://i.imgur.com/NuC64QE.jpg",
+	                           "collections": "Gradient",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "1",
+		                   "author": "Arthwork",
+		                   "url": "https://i.imgur.com/uYAjIkU.jpg",
+		                   "thumbnail": "https://i.imgur.com/uYAjIkU.jpg",
+	                           "collections": "Gradient",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
 		                  {
 		                   "name": "3",
 		                   "author": "JFL",
