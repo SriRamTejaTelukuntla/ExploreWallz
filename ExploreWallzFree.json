@@ -62,8 +62,59 @@
 		                 }
                       ],
     
-	"Wallpapers": [ 
-                             {
+	"Wallpapers": [   
+		                
+                                {
+		                   "name": "Burgundy",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/LSWnj3p.jpg",
+		                   "thumbnail": "https://i.imgur.com/LSWnj3p.jpg",
+	                           "collections": "Abstract",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+                                {
+		                   "name": "Cobalt",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/uueqwaf.jpg",
+		                   "thumbnail": "https://i.imgur.com/uueqwaf.jpg",
+	                           "collections": "Abstract",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		               {
+		                   "name": "Fluid 2",
+		                   "author": "JFL",
+		                   "url": "https://i.imgur.com/reXYBPv.jpg",
+		                   "thumbnail": "https://i.imgur.com/reXYBPv.jpg",
+	                           "collections": "Abstract",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		              {
+		                   "name": "Fluid",
+		                   "author": "JFL",
+		                   "url": "https://i.imgur.com/MMDtPDl.jpg",
+		                   "thumbnail": "https://i.imgur.com/MMDtPDl.jpg",
+	                           "collections": "Abstract",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+                              {
+		                   "name": "Sand Particles",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/N6j1VlC.jpg",
+		                   "thumbnail": "https://i.imgur.com/N6j1VlC.jpg",
+	                           "collections": "Featured|Abstract",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		              {
 		                   "name": "Bird",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/GIRNewq.jpg",
