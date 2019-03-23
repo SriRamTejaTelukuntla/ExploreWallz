@@ -66,10 +66,51 @@
                              {
 		                   "name": "Bird",
 		                   "author": "Sri Ram Teja",
-		                   "url": "https://i.imgur.com/SMQRzWZ.jpg",
-		                   "thumbnail": "https://i.imgur.com/SMQRzWZ.jpg",
+		                   "url": "https://i.imgur.com/GIRNewq.jpg",
+		                   "thumbnail": "https://i.imgur.com/GIRNewq.jpg",
 	                           "collections": "Featured|Amoled",
 		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		             {
+		                   "name": "Hello World",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/SMQRzWZ.jpg",
+		                   "thumbnail": "https://i.imgur.com/SMQRzWZ.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",  
+		                   "copyright": "Personal Use Only"
+	                     },
+		             {
+		                   "name": "Owl",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/lBzobVf.jpg",
+		                   "thumbnail": "https://i.imgur.com/lBzobVf.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",  
+		                   "copyright": "Personal Use Only"
+	                     },
+		             {
+		                   "name": "Fluent Logo",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/sK4UST6.jpg",
+		                   "thumbnail": "https://i.imgur.com/sK4UST6.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",  
+		                   "copyright": "Personal Use Only"
+	                     },
+		             {
+		                   "name": "1",
+		                   "author": "JFL",
+		                   "url": "https://i.imgur.com/CZvwHkN.jpg",
+		                   "thumbnail": "https://i.imgur.com/CZvwHkN.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",  
 		                   "copyright": "Personal Use Only"
 	                     }
                       ]
