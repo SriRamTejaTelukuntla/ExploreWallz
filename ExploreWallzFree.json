@@ -69,6 +69,76 @@
     
 	"Wallpapers": [     
 		                  {
+		                   "name": "Wave",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/yPEOPMq.jpg",
+		                   "thumbnail": "https://i.imgur.com/yPEOPMq.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                  {
+		                   "name": "Wood",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/PbQLtG7.jpg",
+		                   "thumbnail": "https://i.imgur.com/PbQLtG7.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                  {
+		                   "name": "Top View Sea",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/gJoOMMQ.jpg",
+		                   "thumbnail": "https://i.imgur.com/gJoOMMQ.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                  {
+		                   "name": "Placid Lake",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/SVfOCJY.jpg",
+		                   "thumbnail": "https://i.imgur.com/SVfOCJY.jpg",
+	                           "collections": "Featured|Nature",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                  {
+		                   "name": "Polaris",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/qo7XFhX.jpg",
+		                   "thumbnail": "https://i.imgur.com/qo7XFhX.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                  {
+		                   "name": "Sunset At Sea",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/VyofjPS.jpg",
+		                   "thumbnail": "https://i.imgur.com/VyofjPS.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                 {
+		                   "name": "Misty Sunrise",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/24t5PCn.jpg",
+		                   "thumbnail": "https://i.imgur.com/24t5PCn.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                  {
 		                   "name": "Mountain",
 		                   "author": "JFL",
 		                   "url": "https://i.imgur.com/EScPW44.jpg",
@@ -119,16 +189,6 @@
 		                   "copyright": "Personal Use Only"
 	                     },
 		                   {
-		                   "name": "Random Pattern",
-		                   "author": "Arthwork",
-		                   "url": "https://i.imgur.com/VNnL4Ac.jpg",
-		                   "thumbnail": "https://i.imgur.com/VNnL4Ac.jpg",
-	                           "collections": "Material",
-		                   "downloadable": false,
-				   "dimensions": "1440 x 2560 px",
-		                   "copyright": "Personal Use Only"
-	                     },
-		                  {
 		                   "name": "Rectangle Pattern",
 		                   "author": "Arthwork",
 		                   "url": "https://i.imgur.com/zJAJCEz.jpg",
