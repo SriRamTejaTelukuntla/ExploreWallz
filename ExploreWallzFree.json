@@ -106,8 +106,7 @@
 	                           "collections": "Featured|Nature",
 		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
-		                   "copyright": "Personal Use Only",
-			           "featured": true
+		                   "copyright": "Personal Use Only"  
 	                     },
 		                  {
 		                   "name": "Polaris",
