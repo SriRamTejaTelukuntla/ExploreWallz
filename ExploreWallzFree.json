@@ -68,6 +68,46 @@
                       ],
     
 	"Wallpapers": [     
+				{
+		                   "name": "Space Needle",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/DuuXnlJ.jpg",
+		                   "thumbnail": "https://i.imgur.com/DuuXnlJ.jpg",
+	                           "collections": "Structures",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Millennium Bridge",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/E41Y3Qj.jpg",
+		                   "thumbnail": "https://i.imgur.com/E41Y3Qj.jpg",
+	                           "collections": "Structures",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Skyscraper",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/UcusJDh.jpg",
+		                   "thumbnail": "https://i.imgur.com/UcusJDh.jpg",
+	                           "collections": "Structures",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		                   {
+		                   "name": "Golden Gate Bridge",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/do7rKzP.jpg",
+		                   "thumbnail": "https://i.imgur.com/do7rKzP.jpg",
+	                           "collections": "Structures",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
 		                   {
 		                   "name": "Flash",
 		                   "author": "Sri Ram Teja",
