@@ -68,6 +68,16 @@
                       ],
     
 	"Wallpapers": [     
+		                   {
+		                   "name": "Flash",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/Xs6YBp2.jpg",
+		                   "thumbnail": "https://i.imgur.com/Xs6YBp2.jpg",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
 		                  {
 		                   "name": "Wave",
 		                   "author": "Sri Ram Teja",
@@ -75,7 +85,7 @@
 		                   "thumbnail": "https://i.imgur.com/yPEOPMq.jpg",
 	                           "collections": "Nature",
 		                   "downloadable": false,
-				   "dimensions": "1440 x 2560 px",
+				   "dimensions": "3840 x 2160 px",
 		                   "copyright": "Personal Use Only"
 	                     },
 		                  {
