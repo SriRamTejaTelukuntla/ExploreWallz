@@ -69,6 +69,26 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Dune3",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/LUFij07.png",
+		                   "thumbnail": "https://i.imgur.com/LUFij07.png",
+	                           "collections": "Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Dune2",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/a2IL84Q.png",
+		                   "thumbnail": "https://i.imgur.com/a2IL84Q.png",
+	                           "collections": "Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Canon Camera",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/5uQsIGf.jpg",
