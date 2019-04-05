@@ -67,7 +67,257 @@
 		                 }
                       ],
     
-	"Wallpapers": [     
+	"Wallpapers": [ 
+		{
+		                   "name": "Canon Camera",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/5uQsIGf.jpg",
+		                   "thumbnail": "https://i.imgur.com/5uQsIGf.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Macbook",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/b6jzA0k.jpg",
+		                   "thumbnail": "https://i.imgur.com/b6jzA0k.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "iPad Pro",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/BMdsOWb.jpg",
+		                   "thumbnail": "https://i.imgur.com/BMdsOWb.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Multicolor Switch",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/NpQTJ05.jpg",
+		                   "thumbnail": "https://i.imgur.com/NpQTJ05.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Orange Blue Switch",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/V6Jml1R.jpg",
+		                   "thumbnail": "https://i.imgur.com/V6Jml1R.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Blue Red Switch",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/XvcOB23.jpg",
+		                   "thumbnail": "https://i.imgur.com/XvcOB23.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Yellow XR",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/DGTAdbq.jpg",
+		                   "thumbnail": "https://i.imgur.com/DGTAdbq.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Yellow Button Switch",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/qDI7bCW.jpg",
+		                   "thumbnail": "https://i.imgur.com/qDI7bCW.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Switch Smash",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/ax6cuEa.jpg",
+		                   "thumbnail": "https://i.imgur.com/ax6cuEa.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Coffee Bubbles",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/podEski.jpg",
+		                   "thumbnail": "https://i.imgur.com/podEski.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Needler",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/vyDl5l4.jpg",
+		                   "thumbnail": "https://i.imgur.com/vyDl5l4.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Stranger Things TV",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/iz8EAAi.jpg",
+		                   "thumbnail": "https://i.imgur.com/iz8EAAi.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Akia Keyboard",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/gga4zGW.jpg",
+		                   "thumbnail": "https://i.imgur.com/gga4zGW.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Galaxy S10",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/9uiE76v.jpg",
+		                   "thumbnail": "https://i.imgur.com/9uiE76v.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Neon Sign",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/MAehax2.jpg",
+		                   "thumbnail": "https://i.imgur.com/MAehax2.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Adidas Shoe",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/IYOQBau.jpg",
+		                   "thumbnail": "https://i.imgur.com/IYOQBau.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Bratman",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/aA0bqM0.jpg",
+		                   "thumbnail": "https://i.imgur.com/aA0bqM0.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Blue XR",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/TQcPlwz.jpg",
+		                   "thumbnail": "https://i.imgur.com/TQcPlwz.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Sony Walkman",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/PNyqfuI.jpg",
+		                   "thumbnail": "https://i.imgur.com/PNyqfuI.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Xbox Controller",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/eRvJgSU.jpg",
+		                   "thumbnail": "https://i.imgur.com/eRvJgSU.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Question Box",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/vs56LNE.jpg",
+		                   "thumbnail": "https://i.imgur.com/vs56LNE.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Blue Record",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/KcYG51o.jpg",
+		                   "thumbnail": "https://i.imgur.com/KcYG51o.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Baby Groot",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/zOZHduK.jpg",
+		                   "thumbnail": "https://i.imgur.com/zOZHduK.jpg",
+	                           "collections": "Featured|S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Terror Jr",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/ey9Y3IW.jpg",
+		                   "thumbnail": "https://i.imgur.com/ey9Y3IW.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Adidas Shoe 2",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/QhlabZ1.jpg",
+		                   "thumbnail": "https://i.imgur.com/QhlabZ1.jpg",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"
+	                     },
 				{
 		                   "name": "Space Needle",
 		                   "author": "Sri Ram Teja",
