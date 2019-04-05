@@ -74,7 +74,7 @@
 		                   "url": "https://i.imgur.com/DuuXnlJ.jpg",
 		                   "thumbnail": "https://i.imgur.com/DuuXnlJ.jpg",
 	                           "collections": "Structures",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -84,7 +84,7 @@
 		                   "url": "https://i.imgur.com/E41Y3Qj.jpg",
 		                   "thumbnail": "https://i.imgur.com/E41Y3Qj.jpg",
 	                           "collections": "Structures",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -94,7 +94,7 @@
 		                   "url": "https://i.imgur.com/UcusJDh.jpg",
 		                   "thumbnail": "https://i.imgur.com/UcusJDh.jpg",
 	                           "collections": "Structures",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -104,7 +104,7 @@
 		                   "url": "https://i.imgur.com/do7rKzP.jpg",
 		                   "thumbnail": "https://i.imgur.com/do7rKzP.jpg",
 	                           "collections": "Structures",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -114,7 +114,7 @@
 		                   "url": "https://i.imgur.com/Xs6YBp2.jpg",
 		                   "thumbnail": "https://i.imgur.com/Xs6YBp2.jpg",
 	                           "collections": "Minimal",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "3840 x 2160 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -124,7 +124,7 @@
 		                   "url": "https://i.imgur.com/yPEOPMq.jpg",
 		                   "thumbnail": "https://i.imgur.com/yPEOPMq.jpg",
 	                           "collections": "Nature",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -134,7 +134,7 @@
 		                   "url": "https://i.imgur.com/PbQLtG7.jpg",
 		                   "thumbnail": "https://i.imgur.com/PbQLtG7.jpg",
 	                           "collections": "Nature",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -144,7 +144,7 @@
 		                   "url": "https://i.imgur.com/gJoOMMQ.jpg",
 		                   "thumbnail": "https://i.imgur.com/gJoOMMQ.jpg",
 	                           "collections": "Nature",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -154,7 +154,7 @@
 		                   "url": "https://i.imgur.com/SVfOCJY.jpg",
 		                   "thumbnail": "https://i.imgur.com/SVfOCJY.jpg",
 	                           "collections": "Featured|Nature",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"  
 	                     },
@@ -164,7 +164,7 @@
 		                   "url": "https://i.imgur.com/qo7XFhX.jpg",
 		                   "thumbnail": "https://i.imgur.com/qo7XFhX.jpg",
 	                           "collections": "Nature",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -174,7 +174,7 @@
 		                   "url": "https://i.imgur.com/VyofjPS.jpg",
 		                   "thumbnail": "https://i.imgur.com/VyofjPS.jpg",
 	                           "collections": "Nature",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -184,7 +184,7 @@
 		                   "url": "https://i.imgur.com/24t5PCn.jpg",
 		                   "thumbnail": "https://i.imgur.com/24t5PCn.jpg",
 	                           "collections": "Nature",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -194,7 +194,7 @@
 		                   "url": "https://i.imgur.com/EScPW44.jpg",
 		                   "thumbnail": "https://i.imgur.com/EScPW44.jpg",
 	                           "collections": "Material Minimal",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -204,7 +204,7 @@
 		                   "url": "https://i.imgur.com/C5Bi2jb.jpg",
 		                   "thumbnail": "https://i.imgur.com/C5Bi2jb.jpg",
 	                           "collections": "Material Minimal",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -214,7 +214,7 @@
 		                   "url": "https://i.imgur.com/5d5LLfQ.jpg",
 		                   "thumbnail": "https://i.imgur.com/5d5LLfQ.jpg",
 	                           "collections": "Material Minimal",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -224,7 +224,7 @@
 		                   "url": "https://i.imgur.com/WB2QtBl.jpg",
 		                   "thumbnail": "https://i.imgur.com/WB2QtBl.jpg",
 	                           "collections": "Featured|Material Minimal",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -234,7 +234,7 @@
 		                   "url": "https://i.imgur.com/jfmdrT7.jpg",
 		                   "thumbnail": "https://i.imgur.com/jfmdrT7.jpg",
 	                           "collections": "Material",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -244,7 +244,7 @@
 		                   "url": "https://i.imgur.com/zJAJCEz.jpg",
 		                   "thumbnail": "https://i.imgur.com/zJAJCEz.jpg",
 	                           "collections": "Featured|Material",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     }, 
@@ -254,7 +254,7 @@
 		                   "url": "https://i.imgur.com/ub8E9Mp.jpg",
 		                   "thumbnail": "https://i.imgur.com/ub8E9Mp.jpg",
 	                           "collections": "Material",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -264,7 +264,7 @@
 		                   "url": "https://i.imgur.com/LAl2heW.jpg",
 		                   "thumbnail": "https://i.imgur.com/LAl2heW.jpg",
 	                           "collections": "Material",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -274,7 +274,7 @@
 		                   "url": "https://i.imgur.com/WUDIOFJ.jpg",
 		                   "thumbnail": "https://i.imgur.com/WUDIOFJ.jpg",
 	                           "collections": "Material",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -284,7 +284,7 @@
 		                   "url": "https://i.imgur.com/x8wL9BF.jpg",
 		                   "thumbnail": "https://i.imgur.com/x8wL9BF.jpg",
 	                           "collections": "Material",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -294,7 +294,7 @@
 		                   "url": "https://i.imgur.com/6jdattv.jpg",
 		                   "thumbnail": "https://i.imgur.com/6jdattv.jpg",
 	                           "collections": "Gradient Pattern",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -304,7 +304,7 @@
 		                   "url": "https://i.imgur.com/Ou8kW74.jpg",
 		                   "thumbnail": "https://i.imgur.com/Ou8kW74.jpg",
 	                           "collections": "Gradient Pattern",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -314,7 +314,7 @@
 		                   "url": "https://i.imgur.com/G0y0z7C.jpg",
 		                   "thumbnail": "https://i.imgur.com/G0y0z7C.jpg",
 	                           "collections": "Gradient Pattern",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -324,7 +324,7 @@
 		                   "url": "https://i.imgur.com/XyqycRj.jpg",
 		                   "thumbnail": "https://i.imgur.com/XyqycRj.jpg",
 	                           "collections": "Gradient Pattern",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -334,7 +334,7 @@
 		                   "url": "https://i.imgur.com/1fn4qZN.jpg",
 		                   "thumbnail": "https://i.imgur.com/1fn4qZN.jpg",
 	                           "collections": "Gradient Pattern",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -344,7 +344,7 @@
 		                   "url": "https://i.imgur.com/8uGu6SJ.jpg",
 		                   "thumbnail": "https://i.imgur.com/8uGu6SJ.jpg",
 	                           "collections": "Featured|Gradient Pattern",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -354,7 +354,7 @@
 		                   "url": "https://i.imgur.com/ELJ04qA.jpg",
 		                   "thumbnail": "https://i.imgur.com/ELJ04qA.jpg",
 	                           "collections": "Gradient",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -364,7 +364,7 @@
 		                   "url": "https://i.imgur.com/rzYQD3q.jpg",
 		                   "thumbnail": "https://i.imgur.com/rzYQD3q.jpg",
 	                           "collections": "Gradient",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -374,7 +374,7 @@
 		                   "url": "https://i.imgur.com/NuC64QE.jpg",
 		                   "thumbnail": "https://i.imgur.com/NuC64QE.jpg",
 	                           "collections": "Gradient",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -384,7 +384,7 @@
 		                   "url": "https://i.imgur.com/uYAjIkU.jpg",
 		                   "thumbnail": "https://i.imgur.com/uYAjIkU.jpg",
 	                           "collections": "Gradient",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -394,7 +394,7 @@
 		                   "url": "https://i.imgur.com/KfZaWQZ.jpg",
 		                   "thumbnail": "https://i.imgur.com/KfZaWQZ.jpg",
 	                           "collections": "Featured|Dope",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -404,7 +404,7 @@
 		                   "url": "https://i.imgur.com/2Ocwnl8.jpg",
 		                   "thumbnail": "https://i.imgur.com/2Ocwnl8.jpg",
 	                           "collections": "Dope",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -414,7 +414,7 @@
 		                   "url": "https://i.imgur.com/ufTUdnp.jpg",
 		                   "thumbnail": "https://i.imgur.com/ufTUdnp.jpg",
 	                           "collections": "Dope",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -424,7 +424,7 @@
 		                   "url": "https://i.imgur.com/iBXnVVL.jpg",
 		                   "thumbnail": "https://i.imgur.com/iBXnVVL.jpg",
 	                           "collections": "Dope",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -434,7 +434,7 @@
 		                   "url": "https://i.imgur.com/LTHfEXV.jpg",
 		                   "thumbnail": "https://i.imgur.com/LTHfEXV.jpg",
 	                           "collections": "Featured|Colorful",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -444,7 +444,7 @@
 		                   "url": "https://i.imgur.com/J259bfk.jpg",
 		                   "thumbnail": "https://i.imgur.com/J259bfk.jpg",
 	                           "collections": "Featured|Animals",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -454,7 +454,7 @@
 		                   "url": "https://i.imgur.com/LSWnj3p.jpg",
 		                   "thumbnail": "https://i.imgur.com/LSWnj3p.jpg",
 	                           "collections": "Abstract",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -464,7 +464,7 @@
 		                   "url": "https://i.imgur.com/uueqwaf.jpg",
 		                   "thumbnail": "https://i.imgur.com/uueqwaf.jpg",
 	                           "collections": "Abstract",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -474,7 +474,7 @@
 		                   "url": "https://i.imgur.com/reXYBPv.jpg",
 		                   "thumbnail": "https://i.imgur.com/reXYBPv.jpg",
 	                           "collections": "Abstract",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -484,7 +484,7 @@
 		                   "url": "https://i.imgur.com/MMDtPDl.jpg",
 		                   "thumbnail": "https://i.imgur.com/MMDtPDl.jpg",
 	                           "collections": "Abstract",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -494,7 +494,7 @@
 		                   "url": "https://i.imgur.com/N6j1VlC.jpg",
 		                   "thumbnail": "https://i.imgur.com/N6j1VlC.jpg",
 	                           "collections": "Abstract",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -504,7 +504,7 @@
 		                   "url": "https://i.imgur.com/GIRNewq.jpg",
 		                   "thumbnail": "https://i.imgur.com/GIRNewq.jpg",
 	                           "collections": "Featured|Amoled",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -514,7 +514,7 @@
 		                   "url": "https://i.imgur.com/SMQRzWZ.jpg",
 		                   "thumbnail": "https://i.imgur.com/SMQRzWZ.jpg",
 	                           "collections": "Amoled",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",  
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -524,7 +524,7 @@
 		                   "url": "https://i.imgur.com/lBzobVf.jpg",
 		                   "thumbnail": "https://i.imgur.com/lBzobVf.jpg",
 	                           "collections": "Amoled",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",  
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -534,7 +534,7 @@
 		                   "url": "https://i.imgur.com/sK4UST6.jpg",
 		                   "thumbnail": "https://i.imgur.com/sK4UST6.jpg",
 	                           "collections": "Amoled",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",  
 		                   "copyright": "Personal Use Only"
 	                     },
@@ -544,7 +544,7 @@
 		                   "url": "https://i.imgur.com/CZvwHkN.jpg",
 		                   "thumbnail": "https://i.imgur.com/CZvwHkN.jpg",
 	                           "collections": "Amoled",
-		                   "downloadable": true,
+		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",  
 		                   "copyright": "Personal Use Only"
 	                     }
