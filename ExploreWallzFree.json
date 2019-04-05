@@ -69,6 +69,16 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Space",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/kTE6SSg.png",
+		                   "thumbnail": "https://i.imgur.com/kTE6SSg.png",
+	                           "collections": "Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1125 x 2436 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Dune3",
 		                   "author": "ARTHWORK",
 		                   "url": "https://i.imgur.com/LUFij07.png",
