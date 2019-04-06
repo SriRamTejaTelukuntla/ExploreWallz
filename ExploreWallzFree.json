@@ -69,6 +69,16 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Spider Verse Spiderman",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/ukJlWcu.jpg",
+		                   "thumbnail": "https://i.imgur.com/ukJlWcu.jpg",
+	                           "collections": "Featured|Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Wavey Dots",
 		                   "author": "ARTHWORK",
 		                   "url": "https://i.imgur.com/bdgGxsG.png",
