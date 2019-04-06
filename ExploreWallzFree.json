@@ -69,6 +69,16 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Wavey Dots",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/bdgGxsG.png",
+		                   "thumbnail": "https://i.imgur.com/bdgGxsG.png",
+	                           "collections": "Featured|Dope",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Space",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/kTE6SSg.png",
