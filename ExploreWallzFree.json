@@ -69,6 +69,26 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Big Hero 6",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/rlaSxnv.jpg",
+		                   "thumbnail": "https://i.imgur.com/rlaSxnv.jpg",
+	                           "collections": "Superheros|S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1080 x 1920 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Spider into Verse",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/LL0EYB7.jpg",
+		                   "thumbnail": "https://i.imgur.com/LL0EYB7.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1080 x 1920 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Spider Verse Spiderman",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/ukJlWcu.jpg",
