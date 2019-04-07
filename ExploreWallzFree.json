@@ -69,6 +69,196 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Leafs",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/dGGoKzC.jpg",
+		                   "thumbnail": "https://i.imgur.com/dGGoKzC.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "1920x 3840 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Focus Leafs",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/szYT37S.jpg",
+		                   "thumbnail": "https://i.imgur.com/szYT37S.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "2828 x 5657 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Cactus",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/Bdk5gkK.jpg",
+		                   "thumbnail": "https://i.imgur.com/Bdk5gkK.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "2652 x 5304 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Butterfly Purple Pink",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/qrl2pkt.jpg",
+		                   "thumbnail": "https://i.imgur.com/qrl2pkt.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1682 x 3365 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Butterfly Green",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/Kh7nLxR.jpg",
+		                   "thumbnail": "https://i.imgur.com/Kh7nLxR.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1682 x 3365 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Butterfly Green Blue",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/dvhk3MI.jpg",
+		                   "thumbnail": "https://i.imgur.com/dvhk3MI.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1682 x 3365 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Butterfly Blue",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/Jyo7mXy.jpg",
+		                   "thumbnail": "https://i.imgur.com/Jyo7mXy.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1682 x 3365 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Blue Sea",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/Po55qYh.jpg",
+		                   "thumbnail": "https://i.imgur.com/Po55qYh.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "1245 x 2560 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Ink Spill",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/Z7CJF62.png",
+		                   "thumbnail": "https://i.imgur.com/Z7CJF62.png",
+	                           "collections": "S10Plus Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Sloth",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/fHsjKSp.png",
+		                   "thumbnail": "https://i.imgur.com/fHsjKSp.png",
+	                           "collections": "S10Plus Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Minions",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/n7PNDXd.jpg",
+		                   "thumbnail": "https://i.imgur.com/n7PNDXd.jpg",
+	                           "collections": "S10Plus Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Idea",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/JyUC91P.png",
+		                   "thumbnail": "https://i.imgur.com/JyUC91P.png",
+	                           "collections": "S10Plus Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Vroom",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/CNC2lnK.png",
+		                   "thumbnail": "https://i.imgur.com/CNC2lnK.png",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "That Robot",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/ngWlB0x.png",
+		                   "thumbnail": "https://i.imgur.com/ngWlB0x.png",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Spiderman",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/MNVWJJT.png",
+		                   "thumbnail": "https://i.imgur.com/MNVWJJT.png",
+	                           "collections": "S10 Hole Punch|Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Faded",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/eAH9CLl.png",
+		                   "thumbnail": "https://i.imgur.com/eAH9CLl.png",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Do-not",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/5oOdVJi.png",
+		                   "thumbnail": "https://i.imgur.com/5oOdVJi.png",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Tic Tac Toe",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/5j1G3z5.png",
+		                   "thumbnail": "https://i.imgur.com/5j1G3z5.png",
+	                           "collections": "S10Plus Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Ectoplasm",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/ewIJ91b.png",
+		                   "thumbnail": "https://i.imgur.com/ewIJ91b.png",
+	                           "collections": "S10Plus Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Big Hero 6",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/rlaSxnv.jpg",
