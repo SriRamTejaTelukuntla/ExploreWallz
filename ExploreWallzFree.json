@@ -69,13 +69,53 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Google Gradient Light",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/gZDo1eH.png",
+		                   "thumbnail": "https://i.imgur.com/gZDo1eH.png",
+	                           "collections": "Featured|Brands",
+		                   "downloadable": false,
+				   "dimensions": "1080 x 2160 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Google Gradient Dark",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/I5EzROo.png",
+		                   "thumbnail": "https://i.imgur.com/I5EzROo.png",
+	                           "collections": "Brands",
+		                   "downloadable": false,
+				   "dimensions": "1080 x 2160 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Pacman",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/81ln0SX.png",
+		                   "thumbnail": "https://i.imgur.com/81ln0SX.png",
+	                           "collections": "S10 Hole Punch",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Fox",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/iwQt240.jpg",
+		                   "thumbnail": "https://i.imgur.com/iwQt240.jpg",
+	                           "collections": "Featured|Animals",
+		                   "downloadable": false,
+				   "dimensions": "2592 x 5184 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Leafs",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/dGGoKzC.jpg",
 		                   "thumbnail": "https://i.imgur.com/dGGoKzC.jpg",
 	                           "collections": "Nature",
 		                   "downloadable": false,
-				   "dimensions": "1920x 3840 px",
+				   "dimensions": "1920 x 3840 px",
 		                   "copyright": "Personal Use Only"   
 	                     },
 		{
