@@ -69,6 +69,66 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Avengers",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/GgKkxt1.jpg",
+		                   "thumbnail": "https://i.imgur.com/GgKkxt1.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "3 Spiders",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/IRjozPy.jpg",
+		                   "thumbnail": "https://i.imgur.com/IRjozPy.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Sonic",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/xTyhkgv.jpg",
+		                   "thumbnail": "https://i.imgur.com/xTyhkgv.jpg",
+	                           "collections": "Superheros|Amoled|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Zootopia",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/af00jit.jpg",
+		                   "thumbnail": "https://i.imgur.com/af00jit.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Infinity Star",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/2QtS3zU.jpg",
+		                   "thumbnail": "https://i.imgur.com/2QtS3zU.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "4958 x 8815 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Gengar",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/mDcu2X1.png",
+		                   "thumbnail": "https://i.imgur.com/mDcu2X1.png",
+	                           "collections": "Featured|Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1080 x 2280 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Google Gradient Light",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/gZDo1eH.png",
@@ -213,7 +273,7 @@
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/n7PNDXd.jpg",
 		                   "thumbnail": "https://i.imgur.com/n7PNDXd.jpg",
-	                           "collections": "S10Plus Hole Punch",
+	                           "collections": "S10Plus Hole Punch|Movies",
 		                   "downloadable": false,
 				   "dimensions": "1440 x 3040 px",
 		                   "copyright": "Personal Use Only"   
@@ -253,7 +313,7 @@
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/MNVWJJT.png",
 		                   "thumbnail": "https://i.imgur.com/MNVWJJT.png",
-	                           "collections": "S10 Hole Punch|Superheros",
+	                           "collections": "S10 Hole Punch|Superheros|Movies",
 		                   "downloadable": false,
 				   "dimensions": "1440 x 3040 px",
 		                   "copyright": "Personal Use Only"   
@@ -303,7 +363,7 @@
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/rlaSxnv.jpg",
 		                   "thumbnail": "https://i.imgur.com/rlaSxnv.jpg",
-	                           "collections": "Superheros|S10 Hole Punch",
+	                           "collections": "Superheros|S10 Hole Punch|Movies",
 		                   "downloadable": false,
 				   "dimensions": "1440 x 3040 px",
 		                   "copyright": "Personal Use Only"   
@@ -313,7 +373,7 @@
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/LL0EYB7.jpg",
 		                   "thumbnail": "https://i.imgur.com/LL0EYB7.jpg",
-	                           "collections": "Superheros",
+	                           "collections": "Superheros|Movies",
 		                   "downloadable": false,
 				   "dimensions": "1080 x 1920 px",
 		                   "copyright": "Personal Use Only"   
@@ -323,7 +383,7 @@
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/ukJlWcu.jpg",
 		                   "thumbnail": "https://i.imgur.com/ukJlWcu.jpg",
-	                           "collections": "Featured|Superheros",
+	                           "collections": "Featured|Superheros|Movies",
 		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"   
@@ -483,7 +543,7 @@
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/iz8EAAi.jpg",
 		                   "thumbnail": "https://i.imgur.com/iz8EAAi.jpg",
-	                           "collections": "S10 Hole Punch",
+	                           "collections": "S10 Hole Punch|Movies",
 		                   "downloadable": false,
 				   "dimensions": "1440 x 3040 px",
 		                   "copyright": "Personal Use Only"
@@ -593,7 +653,7 @@
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/zOZHduK.jpg",
 		                   "thumbnail": "https://i.imgur.com/zOZHduK.jpg",
-	                           "collections": "Featured|S10 Hole Punch",
+	                           "collections": "Featured|S10 Hole Punch|Movies",
 		                   "downloadable": false,
 				   "dimensions": "1440 x 3040 px",
 		                   "copyright": "Personal Use Only"
@@ -657,17 +717,7 @@
 		                   "downloadable": false,
 				   "dimensions": "1440 x 2560 px",
 		                   "copyright": "Personal Use Only"
-	                     },
-		                   {
-		                   "name": "Flash",
-		                   "author": "Sri Ram Teja",
-		                   "url": "https://i.imgur.com/Xs6YBp2.jpg",
-		                   "thumbnail": "https://i.imgur.com/Xs6YBp2.jpg",
-	                           "collections": "Minimal",
-		                   "downloadable": false,
-				   "dimensions": "3840 x 2160 px",
-		                   "copyright": "Personal Use Only"
-	                     },
+	              
 		                  {
 		                   "name": "Wave",
 		                   "author": "Sri Ram Teja",
