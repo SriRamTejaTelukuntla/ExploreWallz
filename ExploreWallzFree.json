@@ -69,6 +69,116 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Thor",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/yX3JLWq.jpg",
+		                   "thumbnail": "https://i.imgur.com/yX3JLWq.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "AntMan",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/5o3ucuL.jpg",
+		                   "thumbnail": "https://i.imgur.com/5o3ucuL.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Hawk-Eye",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/xbZmFyT.jpg",
+		                   "thumbnail": "https://i.imgur.com/xbZmFyT.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "IronMan",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/yKWv35B.jpg",
+		                   "thumbnail": "https://i.imgur.com/yKWv35B.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Captain America",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/jyjxaLT.jpg",
+		                   "thumbnail": "https://i.imgur.com/jyjxaLT.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Cars",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/hU1YgHY.jpg",
+		                   "thumbnail": "https://i.imgur.com/hU1YgHY.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "The Grinch",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/AtmKTNx.jpg",
+		                   "thumbnail": "https://i.imgur.com/AtmKTNx.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "WallE",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/LBHg2j4.jpg",
+		                   "thumbnail": "https://i.imgur.com/LBHg2j4.jpg",
+	                           "collections": "Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Frozen",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/ldGBjCb.jpg",
+		                   "thumbnail": "https://i.imgur.com/ldGBjCb.jpg",
+	                           "collections": "Superheros|Movies|Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Minions",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/CXbGSaa.jpg",
+		                   "thumbnail": "https://i.imgur.com/CXbGSaa.jpg",
+	                           "collections": "Featured|Superheros|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Venom",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/bPFboll.jpg",
+		                   "thumbnail": "https://i.imgur.com/bPFboll.jpg",
+	                           "collections": "Featured|Superheros|Movies|Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Avengers",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/GgKkxt1.jpg",
