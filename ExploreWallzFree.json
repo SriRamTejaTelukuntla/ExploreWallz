@@ -69,6 +69,76 @@
     
 	"Wallpapers": [ 
 		{
+		                   "name": "Game Of Thrones6",
+		                   "author": "Cael Fernando",
+		                   "url": "https://i.imgur.com/ChRA1yq.png",
+		                   "thumbnail": "https://i.imgur.com/ChRA1yq.png",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Game Of Thrones5",
+		                   "author": "Cael Fernando",
+		                   "url": "https://i.imgur.com/EFUgBpF.png",
+		                   "thumbnail": "https://i.imgur.com/EFUgBpF.png",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Game Of Thrones4",
+		                   "author": "Cael Fernando",
+		                   "url": "https://i.imgur.com/xawzEHj.png",
+		                   "thumbnail": "https://i.imgur.com/xawzEHj.png",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Game Of Thrones3",
+		                   "author": "Cael Fernando",
+		                   "url": "https://i.imgur.com/OKG45gz.png",
+		                   "thumbnail": "https://i.imgur.com/OKG45gz.png",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Game Of Thrones2",
+		                   "author": "Cael Fernando",
+		                   "url": "https://i.imgur.com/tt0Sen2.png",
+		                   "thumbnail": "https://i.imgur.com/tt0Sen2.png",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Game Of Thrones1",
+		                   "author": "Cael Fernando",
+		                   "url": "https://i.imgur.com/5fZosuy.png",
+		                   "thumbnail": "https://i.imgur.com/5fZosuy.png",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2560  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Game Of Thrones",
+		                   "author": "Sri Ram Teja",
+		                   "url": "https://i.imgur.com/sIFDX4e.png",
+		                   "thumbnail": "https://i.imgur.com/sIFDX4e.png",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Thor",
 		                   "author": "Sri Ram Teja",
 		                   "url": "https://i.imgur.com/yX3JLWq.jpg",
