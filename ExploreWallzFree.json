@@ -67,7 +67,207 @@
 		                 }
                       ],
     
-	"Wallpapers": [ 
+	"Wallpapers": [
+		{
+		                   "name": "Ironman Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/tshLnZ6.png",
+		                   "thumbnail": "https://i.imgur.com/tshLnZ6.png",
+	                           "collections": "Featured|Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Spiderman Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Us9FDIz.png",
+		                   "thumbnail": "https://i.imgur.com/Us9FDIz.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Groot Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/ulUwXBc.png",
+		                   "thumbnail": "https://i.imgur.com/ulUwXBc.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "BlackWidow Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/frwen0p.png",
+		                   "thumbnail": "https://i.imgur.com/frwen0p.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Antman Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/l3meGEZ.png",
+		                   "thumbnail": "https://i.imgur.com/l3meGEZ.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Doctor Strange Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/4isryjg.png",
+		                   "thumbnail": "https://i.imgur.com/4isryjg.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Captain America Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/SLLkDJ8.png",
+		                   "thumbnail": "https://i.imgur.com/SLLkDJ8.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "ScarletWitch Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/whcuCEh.png",
+		                   "thumbnail": "https://i.imgur.com/whcuCEh.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Star Lord Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/RCK2X4k.png",
+		                   "thumbnail": "https://i.imgur.com/RCK2X4k.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Rocket Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/QFoghhv.png",
+		                   "thumbnail": "https://i.imgur.com/QFoghhv.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Hawk Eye Paint Art",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/47fQKYH.png",
+		                   "thumbnail": "https://i.imgur.com/47fQKYH.png",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Tarth and Jaime",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/zyrvIM0.jpg",
+		                   "thumbnail": "https://i.imgur.com/zyrvIM0.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Arya Stark",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/KLF9gwy.jpg",
+		                   "thumbnail": "https://i.imgur.com/KLF9gwy.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Iron Islands",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/JTOpPPJ.jpg",
+		                   "thumbnail": "https://i.imgur.com/JTOpPPJ.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Baratheon Kings",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/UBD6xcp.jpg",
+		                   "thumbnail": "https://i.imgur.com/UBD6xcp.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Dragonstone",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/T7T0rah.jpg",
+		                   "thumbnail": "https://i.imgur.com/T7T0rah.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Ellaria Sand",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/61yoRwq.jpg",
+		                   "thumbnail": "https://i.imgur.com/61yoRwq.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Joffrey Lannister",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/VuCVOli.jpg",
+		                   "thumbnail": "https://i.imgur.com/VuCVOli.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Eyrie",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/mnQ3zLB.jpg",
+		                   "thumbnail": "https://i.imgur.com/mnQ3zLB.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Winter Fell",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/gbY31O7.jpg",
+		                   "thumbnail": "https://i.imgur.com/gbY31O7.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
 		{
 		                   "name": "Game Of Thrones6",
 		                   "author": "Cael Fernando",
