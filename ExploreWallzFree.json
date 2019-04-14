@@ -69,6 +69,66 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Orange Blue",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/tWpkLWv.png",
+		                   "thumbnail": "https://i.imgur.com/tWpkLWv.png",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Crazy Design2",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/qcw1ZKX.png",
+		                   "thumbnail": "https://i.imgur.com/qcw1ZKX.png",
+	                           "collections": "Material|Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Crazy Design",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/wuXGG69.png",
+		                   "thumbnail": "https://i.imgur.com/wuXGG69.png",
+	                           "collections": "Material|Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Reflection",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/FrEGrBS.png",
+		                   "thumbnail": "https://i.imgur.com/FrEGrBS.png",
+	                           "collections": "Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3200  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Mountains Day",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/MjHxm6C.png",
+		                   "thumbnail": "https://i.imgur.com/MjHxm6C.png",
+	                           "collections": "Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2880  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Mountains Night",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/s3ODQDd.png",
+		                   "thumbnail": "https://i.imgur.com/s3ODQDd.png",
+	                           "collections": "Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2880  px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Ironman Paint Art",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/tshLnZ6.png",
