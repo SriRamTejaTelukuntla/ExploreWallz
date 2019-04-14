@@ -69,6 +69,46 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Deer",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/GwPKb77.jpg",
+		                   "thumbnail": "https://i.imgur.com/GwPKb77.jpg",
+	                           "collections": "Wildlife",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Batman",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/g6uNp1w.jpg",
+		                   "thumbnail": "https://i.imgur.com/g6uNp1w.jpg",
+	                           "collections": "Amoled|Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Wolf",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/n3t1agg.jpg",
+		                   "thumbnail": "https://i.imgur.com/n3t1agg.jpg",
+	                           "collections": "Minimal|Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Yeah!",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/8gspkmf.jpg",
+		                   "thumbnail": "https://i.imgur.com/8gspkmf.jpg",
+	                           "collections": "Featured|Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Fluid Material 2",
 		                   "author": "ARTHWORK",
 		                   "url": "https://i.imgur.com/3dh2LWT.png",
