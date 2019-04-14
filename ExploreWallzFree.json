@@ -69,6 +69,46 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Firewatch Orange",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/ijgMmsS.jpg",
+		                   "thumbnail": "https://i.imgur.com/ijgMmsS.jpg",
+	                           "collections": "Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Firewatch Green",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/cyEyUyx.jpg",
+		                   "thumbnail": "https://i.imgur.com/cyEyUyx.jpg",
+	                           "collections": "Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Firewatch Dark",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/FglUWEX.jpg",
+		                   "thumbnail": "https://i.imgur.com/FglUWEX.jpg",
+	                           "collections": "Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Firewatch Blue",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/rZmjlzl.jpg",
+		                   "thumbnail": "https://i.imgur.com/rZmjlzl.jpg",
+	                           "collections": "Featured|Material Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Deer",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/GwPKb77.jpg",
