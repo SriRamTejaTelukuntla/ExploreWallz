@@ -69,6 +69,136 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Fluid Material 2",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/3dh2LWT.png",
+		                   "thumbnail": "https://i.imgur.com/3dh2LWT.png",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Fluid Material 1",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/6vXqIrw.png",
+		                   "thumbnail": "https://i.imgur.com/6vXqIrw.png",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Lines2",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/Pq6PQl0.png",
+		                   "thumbnail": "https://i.imgur.com/Pq6PQl0.png",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Lines1",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/47UEFBE.png",
+		                   "thumbnail": "https://i.imgur.com/47UEFBE.png",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Lines",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/Y3f5jIA.png",
+		                   "thumbnail": "https://i.imgur.com/Y3f5jIA.png",
+	                           "collections": "Featured|Dope|Gradient Pattern",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Wavey Lines",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/meuphtG.png",
+		                   "thumbnail": "https://i.imgur.com/meuphtG.png",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Curve Lines",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/XMXnCnK.png",
+		                   "thumbnail": "https://i.imgur.com/XMXnCnK.png",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "V5",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/TqCBqiN.png",
+		                   "thumbnail": "https://i.imgur.com/TqCBqiN.png",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "V4",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/JqM3M73.png",
+		                   "thumbnail": "https://i.imgur.com/JqM3M73.png",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "V3",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/j3Qqlbc.png",
+		                   "thumbnail": "https://i.imgur.com/j3Qqlbc.png",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "V2",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/QIGXTAY.png",
+		                   "thumbnail": "https://i.imgur.com/QIGXTAY.png",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "V1",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/ba6EdO4.png",
+		                   "thumbnail": "https://i.imgur.com/ba6EdO4.png",
+	                           "collections": "Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Pink Blue",
+		                   "author": "ARTHWORK",
+		                   "url": "https://i.imgur.com/sMYvPrz.png",
+		                   "thumbnail": "https://i.imgur.com/sMYvPrz.png",
+	                           "collections": "Featured|Material",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Orange Blue",
 		                   "author": "ARTHWORK",
 		                   "url": "https://i.imgur.com/tWpkLWv.png",
