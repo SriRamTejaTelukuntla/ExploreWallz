@@ -69,21 +69,71 @@
     
 	"Wallpapers": [
 		{
-		                   "name": "Buiding",
+		                   "name": "OnePlus Never Settle",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/vLOZv2i.jpg",
+		                   "thumbnail": "https://i.imgur.com/vLOZv2i.jpg",
+	                           "collections": "Brands",
+		                   "downloadable": false,
+				   "dimensions": "1080 x 2880 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "MKBHD Glitch Logo",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/ALdo4ta.jpg",
+		                   "thumbnail": "https://i.imgur.com/ALdo4ta.jpg",
+	                           "collections": "Youtubers",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2880 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "MKBHD Pattren Logo",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Ed2bTgM.jpg",
+		                   "thumbnail": "https://i.imgur.com/Ed2bTgM.jpg",
+	                           "collections": "Youtubers",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2880 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "MKBHD Black Camo",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/sXn7EdN.jpg",
+		                   "thumbnail": "https://i.imgur.com/sXn7EdN.jpg",
+	                           "collections": "Youtubers",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2880 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "MKBHD White Camo",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/cT0mNeD.jpg",
+		                   "thumbnail": "https://i.imgur.com/cT0mNeD.jpg",
+	                           "collections": "Featured|Youtubers",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2880 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Tribute",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/DCp07KB.png",
+		                   "thumbnail": "https://i.imgur.com/DCp07KB.png",
+	                           "collections": "Amoled|Abstract",
+		                   "downloadable": false,
+				   "dimensions": "1242 x 2208 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Building",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/3UNPmQC.jpg",
 		                   "thumbnail": "https://i.imgur.com/3UNPmQC.jpg",
 	                           "collections": "Amoled|Structures",
-		                   "downloadable": false,
-				   "dimensions": "2828 x 5656 px",
-		                   "copyright": "Personal Use Only"   
-	                     },
-		{
-		                   "name": "Buiding",
-		                   "author": "SRT",
-		                   "url": "https://i.imgur.com/3UNPmQC.jpg",
-		                   "thumbnail": "https://i.imgur.com/3UNPmQC.jpg",
-	                           "collections": "Structures",
 		                   "downloadable": false,
 				   "dimensions": "2828 x 5656 px",
 		                   "copyright": "Personal Use Only"   
@@ -119,7 +169,7 @@
 		                   "copyright": "Personal Use Only"   
 	                     },
 		{
-		                   "name": "Eath",
+		                   "name": "Earth",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/0fX6nv2.png",
 		                   "thumbnail": "https://i.imgur.com/0fX6nv2.png",
