@@ -69,11 +69,51 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Buiding",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/3UNPmQC.jpg",
+		                   "thumbnail": "https://i.imgur.com/3UNPmQC.jpg",
+	                           "collections": "Amoled|Structures",
+		                   "downloadable": false,
+				   "dimensions": "2828 x 5656 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Buiding",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/3UNPmQC.jpg",
+		                   "thumbnail": "https://i.imgur.com/3UNPmQC.jpg",
+	                           "collections": "Structures",
+		                   "downloadable": false,
+				   "dimensions": "2828 x 5656 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Abstract Wall",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Znr51Rc.jpg",
+		                   "thumbnail": "https://i.imgur.com/Znr51Rc.jpg",
+	                           "collections": "Abstract",
+		                   "downloadable": false,
+				   "dimensions": "1386 x 3000 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Flower",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/ed2v5YD.jpg",
+		                   "thumbnail": "https://i.imgur.com/ed2v5YD.jpg",
+	                           "collections": "Nature",
+		                   "downloadable": false,
+				   "dimensions": "2736 x 5472 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Wolf",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/JFS2VlC.jpg",
 		                   "thumbnail": "https://i.imgur.com/JFS2VlC.jpg",
-	                           "collections": "Animals
+	                           "collections": "Wildlife",
 		                   "downloadable": false,
 				   "dimensions": "1516 x 3031 px",
 		                   "copyright": "Personal Use Only"   
