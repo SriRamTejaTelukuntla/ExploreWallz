@@ -69,6 +69,56 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Wolf",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/JFS2VlC.jpg",
+		                   "thumbnail": "https://i.imgur.com/JFS2VlC.jpg",
+	                           "collections": "Animals
+		                   "downloadable": false,
+				   "dimensions": "1516 x 3031 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Eath",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/0fX6nv2.png",
+		                   "thumbnail": "https://i.imgur.com/0fX6nv2.png",
+	                           "collections": "Featured|Dope",
+		                   "downloadable": false,
+				   "dimensions": "1242 x 2688 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Hysteresis",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/MrAi9EL.jpg",
+		                   "thumbnail": "https://i.imgur.com/MrAi9EL.jpg",
+	                           "collections": "Featured|Abstract",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Avengers Endgame",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/xECM52V.jpg",
+		                   "thumbnail": "https://i.imgur.com/xECM52V.jpg",
+	                           "collections": "Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Stranger Things",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/1P13BGT.jpg",
+		                   "thumbnail": "https://i.imgur.com/1P13BGT.jpg",
+	                           "collections": "TVSHOWS",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "Firewatch Orange",
 		                   "author": "ARTHWORK",
 		                   "url": "https://i.imgur.com/ijgMmsS.jpg",
