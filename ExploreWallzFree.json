@@ -69,6 +69,126 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Liquid Spikes",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/OKyFoFl.jpg",
+		                   "thumbnail": "https://i.imgur.com/OKyFoFl.jpg",
+	                           "collections": "Amoled",
+		                   "downloadable": false,
+				   "dimensions": "1080 x 2160 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Matte",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/pwXTqgv.jpg",
+		                   "thumbnail": "https://i.imgur.com/pwXTqgv.jpg",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Random Pattren3",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/7Buedmq.jpg",
+		                   "thumbnail": "https://i.imgur.com/7Buedmq.jpg",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "X",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/3uQMPTC.jpg",
+		                   "thumbnail": "https://i.imgur.com/3uQMPTC.jpg",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "MatteBlackEverything",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/SYpRKHB.jpg",
+		                   "thumbnail": "https://i.imgur.com/SYpRKHB.jpg",
+	                           "collections": "Featured|Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Random Pattren2",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/UkVH9zE.jpg",
+		                   "thumbnail": "https://i.imgur.com/UkVH9zE.jpg",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Random Pattren1",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/bZTBkm1.jpg",
+		                   "thumbnail": "https://i.imgur.com/bZTBkm1.jpg",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 3040 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Wolf2",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/vRI74Fy.jpg",
+		                   "thumbnail": "https://i.imgur.com/vRI74Fy.jpg",
+	                           "collections": "Wildlife",
+		                   "downloadable": false,
+				   "dimensions": "1080 x 1920 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Chamaleon",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/krPc4xk.jpg",
+		                   "thumbnail": "https://i.imgur.com/krPc4xk.jpg",
+	                           "collections": "Wildlife",
+		                   "downloadable": false,
+				   "dimensions": "1080 x 1920 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Redish",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/u0dFll6.png",
+		                   "thumbnail": "https://i.imgur.com/u0dFll6.png",
+	                           "collections": "Gradient",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "PinkBluish",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/rSI8HJi.png",
+		                   "thumbnail": "https://i.imgur.com/rSI8HJi.png",
+	                           "collections": "Gradient",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
+		                   "name": "Bluish",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/HLsCU9b.png",
+		                   "thumbnail": "https://i.imgur.com/HLsCU9b.png",
+	                           "collections": "Gradient",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"   
+	                     },
+		{
 		                   "name": "OnePlus Never Settle",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/vLOZv2i.jpg",
