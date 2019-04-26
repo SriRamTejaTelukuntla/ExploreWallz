@@ -69,6 +69,16 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "AVENGERS ENDGAME",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/yjb2KmS.jpg",
+		                   "thumbnail": "https://i.imgur.com/yjb2KmS.jpg",
+	                           "collections": "Featured|Movies",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Airplane",
 		                   "author": "Saurav Katiyar",
 		                   "url": "https://i.imgur.com/rtLZeFk.jpg",
