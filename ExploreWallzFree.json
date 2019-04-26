@@ -69,6 +69,127 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "IronMan",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/lB5QKKD.jpg",
+		                   "thumbnail": "https://i.imgur.com/lB5QKKD.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "War Machine",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/JPCG4nt.jpg",
+		                   "thumbnail": "https://i.imgur.com/JPCG4nt.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Captain Marvel",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/NxSHxOt.jpg",
+		                   "thumbnail": "https://i.imgur.com/NxSHxOt.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Blackwidow",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/u32Li3a.jpg",
+		                   "thumbnail": "https://i.imgur.com/u32Li3a.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Rocket",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/S1xQO7j.jpg",
+		                   "thumbnail": "https://i.imgur.com/S1xQO7j.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Antman",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/dNzaO5v.jpg",
+		                   "thumbnail": "https://i.imgur.com/dNzaO5v.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Okoye",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/etE2lxA.jpg",
+		                   "thumbnail": "https://i.imgur.com/etE2lxA.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Captain America",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/NhKNIaZ.jpg",
+		                   "thumbnail": "https://i.imgur.com/NhKNIaZ.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Nebula",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/1PnMYA0.jpg",
+		                   "thumbnail": "https://i.imgur.com/1PnMYA0.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Thor",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/y9pyJEX.jpg",
+		                   "thumbnail": "https://i.imgur.com/y9pyJEX.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		
+		{
+		                   "name": "Hawk Eye",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/jUeQYmH.jpg",
+		                   "thumbnail": "https://i.imgur.com/jUeQYmH.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Banner",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/zS97igD.jpg",
+		                   "thumbnail": "https://i.imgur.com/zS97igD.jpg",
+	                           "collections": "Superheros",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "AVENGERS ENDGAME",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/yjb2KmS.jpg",
@@ -76,7 +197,8 @@
 	                           "collections": "Featured|Movies",
 		                   "downloadable": false,
 				   "dimensions": "1440 x 2960 px",
-		                   "copyright": "Personal Use Only"
+		                   "copyright": "Personal Use Only",
+			           "featured": true 
 	                     },
 		{
 		                   "name": "Airplane",
