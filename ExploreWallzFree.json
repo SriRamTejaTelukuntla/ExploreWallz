@@ -69,6 +69,158 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Blox Pattern Light",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/hB7smPM.png",
+		                   "thumbnail": "https://i.imgur.com/hB7smPM.png",
+	                           "collections": "MINIMAL",
+		                   "downloadable": false,
+				   "dimensions": "1367 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Blox Pattern Dark",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/eGtorMi.png",
+		                   "thumbnail": "https://i.imgur.com/eGtorMi.png",
+	                           "collections": "MINIMAL",
+		                   "downloadable": false,
+				   "dimensions": "1367 x 2960 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Computer",
+		                   "author": "Saurav Katiyar",
+		                   "url": "https://i.imgur.com/KbQUXkk.png",
+		                   "thumbnail": "https://i.imgur.com/KbQUXkk.png",
+	                           "collections": "MINIMAL",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Swtich Light",
+		                   "author": "Saurav Katiyar",
+		                   "url": "https://i.imgur.com/8zBnyg7.png",
+		                   "thumbnail": "https://i.imgur.com/8zBnyg7.png",
+	                           "collections": "MINIMAL",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only",
+			           "featured": "true"
+	                     },
+		{
+		                   "name": "Swtich Dark",
+		                   "author": "Saurav Katiyar",
+		                   "url": "https://i.imgur.com/eFUecpv.png",
+		                   "thumbnail": "https://i.imgur.com/eFUecpv.png",
+	                           "collections": "MINIMAL",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Ocean",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Jiq6r9z.jpg",
+		                   "thumbnail": "https://i.imgur.com/Jiq6r9z.jpg",
+	                           "collections": "NATURE",
+		                   "downloadable": false,
+				   "dimensions": "2500 x 5000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Beach",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/jypQgAV.jpg",
+		                   "thumbnail": "https://i.imgur.com/jypQgAV.jpg",
+	                           "collections": "NATURE",
+		                   "downloadable": false,
+				   "dimensions": "2500 x 5000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+			{
+		                   "name": "Blue Beach",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/vC6k4ou.jpg",
+		                   "thumbnail": "https://i.imgur.com/vC6k4ou.jpg",
+	                           "collections": "NATURE",
+		                   "downloadable": false,
+				   "dimensions": "2500 x 5000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Hill Road",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Zuy2vsR.jpg",
+		                   "thumbnail": "https://i.imgur.com/Zuy2vsR.jpg",
+	                           "collections": "NATURE",
+		                   "downloadable": false,
+				   "dimensions": "2500 x 5000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Slow Waves",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/SNwUuZP.jpg",
+		                   "thumbnail": "https://i.imgur.com/SNwUuZP.jpg",
+	                           "collections": "NATURE",
+		                   "downloadable": false,
+				   "dimensions": "2500 x 5000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Pattern2",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/5TvhcPC.png",
+		                   "thumbnail": "https://i.imgur.com/5TvhcPC.png",
+	                           "collections": "AMOLED",
+		                   "downloadable": false,
+				   "dimensions": "1750 x 3500 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Pattern1",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/TnEYW7e.png",
+		                   "thumbnail": "https://i.imgur.com/TnEYW7e.png",
+	                           "collections": "AMOLED",
+		                   "downloadable": false,
+				   "dimensions": "1750 x 3500 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Triangle3",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/MiRXqkA.jpg",
+		                   "thumbnail": "https://i.imgur.com/MiRXqkA.jpg",
+	                           "collections": "DOPE",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2880 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		
+				{
+		                   "name": "Triangle2",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/pu7eEc0.jpg",
+		                   "thumbnail": "https://i.imgur.com/pu7eEc0.jpg",
+	                           "collections": "DOPE",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 880 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+				{
+		                   "name": "Triangle1",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/zLgGGB6.jpg",
+		                   "thumbnail": "https://i.imgur.com/zLgGGB6.jpg",
+	                           "collections": "DOPE",
+		                   "downloadable": false,
+				   "dimensions": "1440 x 2880 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "IronMan",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/lB5QKKD.jpg",
