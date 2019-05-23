@@ -554,46 +554,7 @@
 				   "dimensions": "1440 x 3040 px",
 		                   "copyright": "Personal Use Only"   
 	                     },
-		{
-		                   "name": "X",
-		                   "author": "SRT",
-		                   "url": "https://i.imgur.com/3uQMPTC.jpg",
-		                   "thumbnail": "https://i.imgur.com/3uQMPTC.jpg",
-	                           "collections": "Minimal",
-		                   "downloadable": false,
-				   "dimensions": "1440 x 3040 px",
-		                   "copyright": "Personal Use Only"   
-	                     },
-		{
-		                   "name": "MatteBlackEverything",
-		                   "author": "SRT",
-		                   "url": "https://i.imgur.com/SYpRKHB.jpg",
-		                   "thumbnail": "https://i.imgur.com/SYpRKHB.jpg",
-	                           "collections": "Featured|Minimal",
-		                   "downloadable": false,
-				   "dimensions": "1440 x 3040 px",
-		                   "copyright": "Personal Use Only"   
-	                     },
-		{
-		                   "name": "Random Pattren2",
-		                   "author": "SRT",
-		                   "url": "https://i.imgur.com/UkVH9zE.jpg",
-		                   "thumbnail": "https://i.imgur.com/UkVH9zE.jpg",
-	                           "collections": "Minimal",
-		                   "downloadable": false,
-				   "dimensions": "1440 x 3040 px",
-		                   "copyright": "Personal Use Only"   
-	                     },
-		{
-		                   "name": "Random Pattren1",
-		                   "author": "SRT",
-		                   "url": "https://i.imgur.com/bZTBkm1.jpg",
-		                   "thumbnail": "https://i.imgur.com/bZTBkm1.jpg",
-	                           "collections": "Minimal",
-		                   "downloadable": false,
-				   "dimensions": "1440 x 3040 px",
-		                   "copyright": "Personal Use Only"   
-	                     },
+
 		{
 		                   "name": "Wolf2",
 		                   "author": "SRT",
