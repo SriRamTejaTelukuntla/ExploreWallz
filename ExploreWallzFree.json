@@ -68,26 +68,7 @@
                       ],
     
 	"Wallpapers": [
-		{
-		                   "name": "Blox Pattern Light",
-		                   "author": "Arabi ishaque",
-		                   "url": "https://i.imgur.com/hB7smPM.png",
-		                   "thumbnail": "https://i.imgur.com/hB7smPM.png",
-	                           "collections": "Minimal",
-		                   "downloadable": false,
-				   "dimensions": "1367 x 2960 px",
-		                   "copyright": "Personal Use Only"
-	                     },
-		{
-		                   "name": "Blox Pattern Dark",
-		                   "author": "Arabi ishaqu",
-		                   "url": "https://i.imgur.com/eGtorMi.png",
-		                   "thumbnail": "https://i.imgur.com/eGtorMi.png",
-	                           "collections": "Minimal",
-		                   "downloadable": false,
-				   "dimensions": "1367 x 2960 px",
-		                   "copyright": "Personal Use Only"
-	                     },
+		
 		{
 		                   "name": "Computer",
 		                   "author": "Saurav Katiyar",
