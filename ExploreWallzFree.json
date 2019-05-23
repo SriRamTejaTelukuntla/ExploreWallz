@@ -534,27 +534,7 @@
 				   "dimensions": "1080 x 2160 px",
 		                   "copyright": "Personal Use Only"   
 	                     },
-		{
-		                   "name": "Matte",
-		                   "author": "SRT",
-		                   "url": "https://i.imgur.com/pwXTqgv.jpg",
-		                   "thumbnail": "https://i.imgur.com/pwXTqgv.jpg",
-	                           "collections": "Minimal",
-		                   "downloadable": false,
-				   "dimensions": "1440 x 3040 px",
-		                   "copyright": "Personal Use Only"   
-	                     },
-		{
-		                   "name": "Random Pattren3",
-		                   "author": "SRT",
-		                   "url": "https://i.imgur.com/7Buedmq.jpg",
-		                   "thumbnail": "https://i.imgur.com/7Buedmq.jpg",
-	                           "collections": "Minimal",
-		                   "downloadable": false,
-				   "dimensions": "1440 x 3040 px",
-		                   "copyright": "Personal Use Only"   
-	                     },
-
+		
 		{
 		                   "name": "Wolf2",
 		                   "author": "SRT",
