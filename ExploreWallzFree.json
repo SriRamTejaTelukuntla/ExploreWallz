@@ -69,6 +69,107 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Education",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/BVwd3bV.png",
+		                   "thumbnail": "https://i.imgur.com/BVwd3bV.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Truck",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Y9r9wnY.png",
+		                   "thumbnail": "https://i.imgur.com/Y9r9wnY.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Desk Setup",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/hwv83n2.png",
+		                   "thumbnail": "https://i.imgur.com/hwv83n2.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only",
+			           "featured": "true"
+	                     },
+		{
+		                   "name": "Data Storage",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/GEhBpoD.png",
+		                   "thumbnail": "https://i.imgur.com/GEhBpoD.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Statue of liberty",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/KdhseNm.png",
+		                   "thumbnail": "https://i.imgur.com/KdhseNm.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Tree",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/8ydTZXQ.png",
+		                   "thumbnail": "https://i.imgur.com/8ydTZXQ.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Puzzle",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/94W6f4g.jpg",
+		                   "thumbnail": "https://i.imgur.com/94W6f4g.jpg",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "City",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/witYLod.png",
+		                   "thumbnail": "https://i.imgur.com/witYLod.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Cube",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/JsGW35a.png",
+		                   "thumbnail": "https://i.imgur.com/JsGW35a.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "AirForce",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/UKzVjbx.png",
+		                   "thumbnail": "https://i.imgur.com/UKzVjbx.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Esor1",
 		                   "author": "Zheano Blog",
 		                   "url": "https://i.imgur.com/rZ1YTTV.png",
