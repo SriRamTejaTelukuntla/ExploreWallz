@@ -69,6 +69,106 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Modern Pattren",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/b8UcMpu.png",
+		                   "thumbnail": "https://i.imgur.com/b8UcMpu.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Cube Pattren Light",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/iQxTZBq.png",
+		                   "thumbnail": "https://i.imgur.com/iQxTZBq.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Cube Pattren Dark",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/oUDxx57.png",
+		                   "thumbnail": "https://i.imgur.com/oUDxx57.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Multicolor",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/k4SZaqv.png",
+		                   "thumbnail": "https://i.imgur.com/k4SZaqv.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Stylish Circles",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Q0MtLOz.png",
+		                   "thumbnail": "https://i.imgur.com/Q0MtLOz.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Memphis Fulid Light",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/CJyJJJa.png",
+		                   "thumbnail": "https://i.imgur.com/CJyJJJa.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Memphis Fulid Dark",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/2bSo4Kp.png",
+		                   "thumbnail": "https://i.imgur.com/2bSo4Kp.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Square",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/hTUFLjD.png",
+		                   "thumbnail": "https://i.imgur.com/hTUFLjD.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Hexagon",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/pl7QnCK.png",
+		                   "thumbnail": "https://i.imgur.com/pl7QnCK.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Colorful Memphis",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/kK931dT.png",
+		                   "thumbnail": "https://i.imgur.com/kK931dT.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Education",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/BVwd3bV.png",
