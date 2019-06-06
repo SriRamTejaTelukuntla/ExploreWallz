@@ -69,6 +69,67 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Cozmo",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/9LgpCwX.png",
+		                   "thumbnail": "https://i.imgur.com/9LgpCwX.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "BB-8",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/FrbZJFU.png",
+		                   "thumbnail": "https://i.imgur.com/FrbZJFU.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only",
+			           "featured": "true"
+	                     },
+		{
+		                   "name": "Minimal City",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/5UDaEeN.png",
+		                   "thumbnail": "https://i.imgur.com/5UDaEeN.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Silhouette Skyline",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Gx87teE.png",
+		                   "thumbnail": "https://i.imgur.com/Gx87teE.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Unicorn",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Ylt9HfI.png",
+		                   "thumbnail": "https://i.imgur.com/Ylt9HfI.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Journalist in desert",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/PTkHzuT.png",
+		                   "thumbnail": "https://i.imgur.com/PTkHzuT.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Modern Pattren",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/b8UcMpu.png",
