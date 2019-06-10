@@ -69,6 +69,78 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Dope Elements",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/w7Wddpt.jpg",
+		                   "thumbnail": "https://i.imgur.com/w7Wddpt.jpg",
+	                           "collections": "Pattren|Dope",
+		                   "downloadable": false,
+				   "dimensions": "4500 x 8000 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Shapes",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/rK6nKAh.png",
+		                   "thumbnail": "https://i.imgur.com/rK6nKAh.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Pattren 1",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/Ki55lTR.png",
+		                   "thumbnail": "https://i.imgur.com/Ki55lTR.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+				{
+		                   "name": "Maze Orange",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/sQn7CYZ.png",
+		                   "thumbnail": "https://i.imgur.com/sQn7CYZ.png",
+	                           "collections": "Pattren",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only",
+				   "featured": "true"
+	                     },
+		{
+		                   "name": "Vibrant Halftone",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/ykow5bp.png",
+		                   "thumbnail": "https://i.imgur.com/ykow5bp.png",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Dynamic Waves",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/qISbJit.jpg",
+		                   "thumbnail": "https://i.imgur.com/qISbJit.jpg",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		
+		{
+		                   "name": "Dynamic Waves 2",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/i1iwqLs.jpg",
+		                   "thumbnail": "https://i.imgur.com/i1iwqLs.jpg",
+	                           "collections": "Dope",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Cozmo",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/9LgpCwX.png",
