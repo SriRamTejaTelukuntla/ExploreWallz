@@ -69,11 +69,112 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Gradient Stripes",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/kCGdvF6.jpg",
+		                   "thumbnail": "https://i.imgur.com/kCGdvF6.jpg",
+	                           "collections": "Pattern",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Pattren Wave",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/GHcd8W5.jpg",
+		                   "thumbnail": "https://i.imgur.com/GHcd8W5.jpg",
+	                           "collections": "Pattern",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Pattren Purple Wave",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/RjdtjSD.png",
+		                   "thumbnail": "https://i.imgur.com/RjdtjSD.png",
+	                           "collections": "Pattern",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Pattren Pink Waves",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/EXW07cg.png",
+		                   "thumbnail": "https://i.imgur.com/EXW07cg.png",
+	                           "collections": "Pattern",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Pattren Green Waves",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/oR668bh.png",
+		                   "thumbnail": "https://i.imgur.com/oR668bh.png",
+	                           "collections": "Pattern",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Gradient Flowers",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/liLYUbI.png",
+		                   "thumbnail": "https://i.imgur.com/liLYUbI.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Floating Island",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/T2qnaEr.png",
+		                   "thumbnail": "https://i.imgur.com/T2qnaEr.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only",
+			           "featured": "true"
+	                     },
+		{
+		                   "name": "Beach Sunset",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/BA59ecI.png",
+		                   "thumbnail": "https://i.imgur.com/BA59ecI.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "T-Rex",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/9sg4jw0.png",
+		                   "thumbnail": "https://i.imgur.com/9sg4jw0.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Tech",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/QlmJmYf.png",
+		                   "thumbnail": "https://i.imgur.com/QlmJmYf.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Dope Elements",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/w7Wddpt.jpg",
 		                   "thumbnail": "https://i.imgur.com/w7Wddpt.jpg",
-	                           "collections": "Pattren|Dope",
+	                           "collections": "Pattern|Dope",
 		                   "downloadable": false,
 				   "dimensions": "4500 x 8000 px",
 		                   "copyright": "Personal Use Only"
@@ -83,7 +184,7 @@
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/rK6nKAh.png",
 		                   "thumbnail": "https://i.imgur.com/rK6nKAh.png",
-	                           "collections": "Pattren",
+	                           "collections": "Pattern",
 		                   "downloadable": false,
 				   "dimensions": "2160 x 4096 px",
 		                   "copyright": "Personal Use Only"
@@ -93,7 +194,7 @@
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/Ki55lTR.png",
 		                   "thumbnail": "https://i.imgur.com/Ki55lTR.png",
-	                           "collections": "Pattren",
+	                           "collections": "Pattern",
 		                   "downloadable": false,
 				   "dimensions": "2160 x 4096 px",
 		                   "copyright": "Personal Use Only"
@@ -103,7 +204,7 @@
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/sQn7CYZ.png",
 		                   "thumbnail": "https://i.imgur.com/sQn7CYZ.png",
-	                           "collections": "Pattren",
+	                           "collections": "Pattern",
 		                   "downloadable": false,
 				   "dimensions": "2160 x 4096 px",
 		                   "copyright": "Personal Use Only",
