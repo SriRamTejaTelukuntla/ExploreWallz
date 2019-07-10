@@ -69,6 +69,66 @@
     
 	"Wallpapers": [
 		{
+		                   "name": "Autum Season",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/6Qv6s27.png",
+		                   "thumbnail": "https://i.imgur.com/6Qv6s27.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Day",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/JzlpiNR.png",
+		                   "thumbnail": "https://i.imgur.com/JzlpiNR.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Night",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/du08ffZ.png",
+		                   "thumbnail": "https://i.imgur.com/du08ffZ.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Evening Birds",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/YQWmdqX.png",
+		                   "thumbnail": "https://i.imgur.com/YQWmdqX.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Hill Down",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/XSYrTkV.png",
+		                   "thumbnail": "https://i.imgur.com/XSYrTkV.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
+		                   "name": "Night Woods",
+		                   "author": "SRT",
+		                   "url": "https://i.imgur.com/ONgPopK.png",
+		                   "thumbnail": "https://i.imgur.com/ONgPopK.png",
+	                           "collections": "Minimal",
+		                   "downloadable": false,
+				   "dimensions": "2160 x 4096 px",
+		                   "copyright": "Personal Use Only"
+	                     },
+		{
 		                   "name": "Gradient Stripes",
 		                   "author": "SRT",
 		                   "url": "https://i.imgur.com/kCGdvF6.jpg",
