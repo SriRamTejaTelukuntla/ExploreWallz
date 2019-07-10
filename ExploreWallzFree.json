@@ -76,7 +76,8 @@
 	                           "collections": "Minimal",
 		                   "downloadable": false,
 				   "dimensions": "2160 x 4096 px",
-		                   "copyright": "Personal Use Only"
+		                   "copyright": "Personal Use Only",
+			           "featured": "true"
 	                     },
 		{
 		                   "name": "Day",
